@@ -5,7 +5,7 @@
 # @PKGNAME@ script to control svscan (service supervisor).
 #
 
-# PROVIDE: svscan named
+# PROVIDE: svscan
 # REQUIRE: NETWORKING mountcritremote syslogd
 # BEFORE:  DAEMON
 
