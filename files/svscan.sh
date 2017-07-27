@@ -1,6 +1,6 @@
 #!@RCD_SCRIPTS_SHELL@
 #
-# $NetBSD$
+# $NetBSD: svscan.sh,v 1.1 2017/07/27 04:05:16 schmonz Exp $
 #
 # @PKGNAME@ script to control svscan (service supervisor).
 #
